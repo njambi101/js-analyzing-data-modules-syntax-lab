@@ -15,7 +15,7 @@ function combineUsers(...args) {
   };
   
   const merge_date = "merge_date";
-  combinedObject[merge_date] = "10/6/2026"; 
+  combinedObject[merge_date] = "10/7/2026"; 
   return combinedObject;
 }
 
